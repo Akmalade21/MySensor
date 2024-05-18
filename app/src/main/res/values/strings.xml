@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySensor</string>
+    <string name="indicator">Indicator Ball</string>
+    <string name="instructions">Tilt your device to see the ball move.</string>
+</resources>
